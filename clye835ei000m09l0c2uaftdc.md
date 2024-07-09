@@ -1,9 +1,9 @@
 ---
-title: "Thing to learn when you are starting Typescript"
+title: "Thing to learn when you are starting new in Typescript"
 seoTitle: "Typescript"
 datePublished: Tue Jul 09 2024 09:42:35 GMT+0000 (Coordinated Universal Time)
 cuid: clye835ei000m09l0c2uaftdc
-slug: thing-to-learn-when-you-are-starting-typescript
+slug: thing-to-learn-when-you-are-starting-new-in-typescript
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720518141857/0739847e-05d1-443f-b71b-7ddc961e53e1.png
 tags: learning, typescript, beginners
 
