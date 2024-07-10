@@ -12,7 +12,7 @@ tags: learning, typescript, beginners
 
 This is step by step topics that you should learn if you are starting new in typescript:
 
-1. Why Typescript?
+1. Introduction to Typescript
     
 2. Typescript Annotations
     
