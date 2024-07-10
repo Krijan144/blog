@@ -1,5 +1,5 @@
 ---
-title: "Thing to learn when you are starting new in Typescript"
+title: "Things to learn when you are starting new in Typescript"
 seoTitle: "Typescript"
 datePublished: Tue Jul 09 2024 09:42:35 GMT+0000 (Coordinated Universal Time)
 cuid: clye835ei000m09l0c2uaftdc
