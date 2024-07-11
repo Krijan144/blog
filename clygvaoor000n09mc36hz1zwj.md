@@ -11,8 +11,8 @@ tags: typescript
 
 ---
 
-Typescript is basically superset to JavaScript. Typescript allows us to determine types of variables, function parameters, and return values that helps us to catch type-related errors during compile time. Typescript enables developers to catch errors early in the development process through type checking making the life of developers easier during deployment phase. As a whole typescript helps us to make more robust, maintainable, and scalable code, especially in larger projects. Some pros and cons of typescript:  
-  
+Typescript is basically superset to JavaScript. Typescript allows us to determine types of variables, function parameters, and return values that helps us to catch type-related errors during compile time. Typescript enables developers to catch errors early in the development process through type checking making the life of developers easier during deployment phase. As a whole typescript helps us to make more robust, maintainable, and scalable code, especially in larger projects. Some pros and cons of typescript:
+
 Pros of using Typescript:
 
 * **Early Error Detection**: One of the main advantages of using typescript is detection of error early during development ,improving code quality and reducing runtime errors.
@@ -37,5 +37,5 @@ Cons in using typescript:
 * **Compilation step :** TypeScript adds an additional compilation step, which can complicate the build process and increase build times. This may affect the development workflow, especially in rapid prototyping scenarios.
     
 * **Third party libraries :** Third party libraries that have well documentation on JavaScript may not have required documentation or support for TypeScript.  
-      
+    
     Typescript is better for large projects with multiple developers working on same project but for small project that needs to be completed in less time it might not be suitable option especially for the developers just starting with typescript.
