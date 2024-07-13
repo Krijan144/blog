@@ -50,12 +50,12 @@ role:"Administrator"
 Person={
 name:"Leo",
 id:1
-} 
+}
 ```
 
 Union Type in Array
 
-In the given example array can have string and number.
+The given example demonstrates an array that can contain both string and number values.
 
 ```typescript
 let arrayValue:(string|number)[]=["John Doe",21,"Jason",1,23];
@@ -63,7 +63,7 @@ let arrayValue:(string|number)[]=["John Doe",21,"Jason",1,23];
 
 Union Type in Literal Values
 
-In the given example variable requestStatus can have literal string value pending, success and error.
+In the given example variable requestStatus can have literal string value pending, success or error.
 
 ```typescript
 let requestStatus:"pending"|"success"|"error"="pending";
